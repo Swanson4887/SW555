@@ -1,0 +1,432 @@
+--> 0 NOTE Matt Swentzel
+
+<-- 0|NOTE|Y|Matt Swentzel
+--> 0 HEAD
+
+<-- 0|HEAD|Y|
+--> 1 SOUR Family Echo
+
+<-- 1|SOUR|N|Family Echo
+--> 2 WWW http://www.familyecho.com/
+
+<-- 2|WWW|N|http://www.familyecho.com/
+--> 1 FILE My Family
+
+<-- 1|FILE|N|My Family
+--> 1 DATE 12 SEP 2018
+
+<-- 1|DATE|N|12 SEP 2018
+--> 1 DEST ANSTFILE
+
+<-- 1|DEST|N|ANSTFILE
+--> 1 GEDC
+
+<-- 1|GEDC|N|
+--> 2 VERS 5.5.1
+
+<-- 2|VERS|N|5.5.1
+--> 2 FORM LINEAGE-LINKED
+
+<-- 2|FORM|N|LINEAGE-LINKED
+--> 1 SUBM @I1@
+
+<-- 1|SUBM|N|@I1@
+--> 2 NAME Matt Swentzel
+
+<-- 2|NAME|N|Matt Swentzel
+--> 1 SUBN
+
+<-- 1|SUBN|N|
+--> 1 CHAR UTF-8
+
+<-- 1|CHAR|N|UTF-8
+--> 0 @I1@ INDI
+
+<-- 0|INDI|Y|@I1@
+--> 1 NAME Mark /Swanson/
+
+<-- 1|NAME|Y|Mark /Swanson/
+--> 2 GIVN Mark
+
+<-- 2|GIVN|N|Mark
+--> 2 SURN Swanson
+
+<-- 2|SURN|N|Swanson
+--> 2 _MARNM Swanson
+
+<-- 2|_MARNM|N|Swanson
+--> 1 SEX M
+
+<-- 1|SEX|Y|M
+--> 1 BIRT
+
+<-- 1|BIRT|Y|
+--> 2 DATE 3 JAN 1940
+
+<-- 2|DATE|Y|3 JAN 1940
+--> 1 FAMS @F1@
+
+<-- 1|FAMS|Y|@F1@
+--> 0 @I2@ INDI
+
+<-- 0|INDI|Y|@I2@
+--> 1 NAME Mel /Swanson/
+
+<-- 1|NAME|Y|Mel /Swanson/
+--> 2 GIVN Mel
+
+<-- 2|GIVN|N|Mel
+--> 2 SURN Swanson
+
+<-- 2|SURN|N|Swanson
+--> 2 _MARNM Swanson
+
+<-- 2|_MARNM|N|Swanson
+--> 1 SEX F
+
+<-- 1|SEX|Y|F
+--> 1 BIRT
+
+<-- 1|BIRT|Y|
+--> 2 DATE 6 JAN 1939
+
+<-- 2|DATE|Y|6 JAN 1939
+--> 1 FAMS @F1@
+
+<-- 1|FAMS|Y|@F1@
+--> 0 @I3@ INDI
+
+<-- 0|INDI|Y|@I3@
+--> 1 NAME Trucy /Swanson/
+
+<-- 1|NAME|Y|Trucy /Swanson/
+--> 2 GIVN Trucy
+
+<-- 2|GIVN|N|Trucy
+--> 2 SURN Swanson
+
+<-- 2|SURN|N|Swanson
+--> 2 _MARNM Man
+
+<-- 2|_MARNM|N|Man
+--> 1 SEX F
+
+<-- 1|SEX|Y|F
+--> 1 BIRT
+
+<-- 1|BIRT|Y|
+--> 2 DATE 4 MAY 1967
+
+<-- 2|DATE|Y|4 MAY 1967
+--> 1 FAMS @F2@
+
+<-- 1|FAMS|Y|@F2@
+--> 1 FAMS @F3@
+
+<-- 1|FAMS|Y|@F3@
+--> 1 FAMC @F1@
+
+<-- 1|FAMC|Y|@F1@
+--> 0 @I4@ INDI
+
+<-- 0|INDI|Y|@I4@
+--> 1 NAME Matt /Swanson/
+
+<-- 1|NAME|Y|Matt /Swanson/
+--> 2 GIVN Matt
+
+<-- 2|GIVN|N|Matt
+--> 2 SURN Swanson
+
+<-- 2|SURN|N|Swanson
+--> 2 _MARNM Swanson
+
+<-- 2|_MARNM|N|Swanson
+--> 1 SEX M
+
+<-- 1|SEX|Y|M
+--> 1 BIRT
+
+<-- 1|BIRT|Y|
+--> 2 DATE 3 FEB 1966
+
+<-- 2|DATE|Y|3 FEB 1966
+--> 1 FAMS @F4@
+
+<-- 1|FAMS|Y|@F4@
+--> 1 FAMC @F1@
+
+<-- 1|FAMC|Y|@F1@
+--> 0 @I5@ INDI
+
+<-- 0|INDI|Y|@I5@
+--> 1 NAME Helga /Trione/
+
+<-- 1|NAME|Y|Helga /Trione/
+--> 2 GIVN Helga
+
+<-- 2|GIVN|N|Helga
+--> 2 SURN Trione
+
+<-- 2|SURN|N|Trione
+--> 2 _MARNM Tirone
+
+<-- 2|_MARNM|N|Tirone
+--> 1 SEX F
+
+<-- 1|SEX|Y|F
+--> 1 FAMS @F4@
+
+<-- 1|FAMS|Y|@F4@
+--> 0 @I6@ INDI
+
+<-- 0|INDI|Y|@I6@
+--> 1 NAME Bobson /Swanson/
+
+<-- 1|NAME|Y|Bobson /Swanson/
+--> 2 GIVN Bobson
+
+<-- 2|GIVN|N|Bobson
+--> 2 SURN Swanson
+
+<-- 2|SURN|N|Swanson
+--> 2 _MARNM Swanson
+
+<-- 2|_MARNM|N|Swanson
+--> 1 SEX M
+
+<-- 1|SEX|Y|M
+--> 1 BIRT
+
+<-- 1|BIRT|Y|
+--> 2 DATE 11 APR 1999
+
+<-- 2|DATE|Y|11 APR 1999
+--> 1 FAMC @F4@
+
+<-- 1|FAMC|Y|@F4@
+--> 0 @I7@ INDI
+
+<-- 0|INDI|Y|@I7@
+--> 1 NAME Bandit /Bringman/
+
+<-- 1|NAME|Y|Bandit /Bringman/
+--> 2 GIVN Bandit
+
+<-- 2|GIVN|N|Bandit
+--> 2 SURN Bringman
+
+<-- 2|SURN|N|Bringman
+--> 2 _MARNM Bringman
+
+<-- 2|_MARNM|N|Bringman
+--> 1 SEX M
+
+<-- 1|SEX|Y|M
+--> 1 BIRT
+
+<-- 1|BIRT|Y|
+--> 2 DATE 14 APR 1995
+
+<-- 2|DATE|Y|14 APR 1995
+--> 1 DEAT Y
+
+<-- 1|DEAT|Y|Y
+--> 2 DATE 9 SEP 1987
+
+<-- 2|DATE|Y|9 SEP 1987
+--> 1 FAMS @F3@
+
+<-- 1|FAMS|Y|@F3@
+--> 0 @I8@ INDI
+
+<-- 0|INDI|Y|@I8@
+--> 1 NAME Sin /Bringman/
+
+<-- 1|NAME|Y|Sin /Bringman/
+--> 2 GIVN Sin
+
+<-- 2|GIVN|N|Sin
+--> 2 SURN Bringman
+
+<-- 2|SURN|N|Bringman
+--> 2 _MARNM Bringman
+
+<-- 2|_MARNM|N|Bringman
+--> 1 SEX M
+
+<-- 1|SEX|Y|M
+--> 1 BIRT
+
+<-- 1|BIRT|Y|
+--> 2 DATE 20 SEP 1987
+
+<-- 2|DATE|Y|20 SEP 1987
+--> 1 FAMC @F3@
+
+<-- 1|FAMC|Y|@F3@
+--> 0 @I9@ INDI
+
+<-- 0|INDI|Y|@I9@
+--> 1 NAME Dandy /Man/
+
+<-- 1|NAME|Y|Dandy /Man/
+--> 2 GIVN Dandy
+
+<-- 2|GIVN|N|Dandy
+--> 2 SURN Man
+
+<-- 2|SURN|N|Man
+--> 2 _MARNM Man
+
+<-- 2|_MARNM|N|Man
+--> 1 SEX M
+
+<-- 1|SEX|Y|M
+--> 1 BIRT
+
+<-- 1|BIRT|Y|
+--> 2 DATE 2 JUN 1930
+
+<-- 2|DATE|Y|2 JUN 1930
+--> 1 FAMS @F2@
+
+<-- 1|FAMS|Y|@F2@
+--> 0 @I10@ INDI
+
+<-- 0|INDI|Y|@I10@
+--> 1 NAME Bedivere /Man/
+
+<-- 1|NAME|Y|Bedivere /Man/
+--> 2 GIVN Bedivere
+
+<-- 2|GIVN|N|Bedivere
+--> 2 SURN Man
+
+<-- 2|SURN|N|Man
+--> 2 _MARNM Man
+
+<-- 2|_MARNM|N|Man
+--> 1 SEX M
+
+<-- 1|SEX|Y|M
+--> 1 FAMC @F2@
+
+<-- 1|FAMC|Y|@F2@
+--> 0 @F1@ FAM
+
+<-- 0|FAM|Y|@F1@
+--> 1 HUSB @I1@
+
+<-- 1|HUSB|Y|@I1@
+--> 1 WIFE @I2@
+
+<-- 1|WIFE|Y|@I2@
+--> 1 CHIL @I3@
+
+<-- 1|CHIL|Y|@I3@
+--> 1 CHIL @I4@
+
+<-- 1|CHIL|Y|@I4@
+--> 1 MARR
+
+<-- 1|MARR|Y|
+--> 2 DATE 8 JAN 1940
+
+<-- 2|DATE|Y|8 JAN 1940
+--> 2 PLAC New York City
+
+<-- 2|PLAC|N|New York City
+--> 1 _CURRENT Y
+
+<-- 1|_CURRENT|N|Y
+--> 0 @F2@ FAM
+
+<-- 0|FAM|Y|@F2@
+--> 1 HUSB @I9@
+
+<-- 1|HUSB|Y|@I9@
+--> 1 WIFE @I3@
+
+<-- 1|WIFE|Y|@I3@
+--> 1 CHIL @I10@
+
+<-- 1|CHIL|Y|@I10@
+--> 1 MARR
+
+<-- 1|MARR|Y|
+--> 2 DATE 3 FEB 1990
+
+<-- 2|DATE|Y|3 FEB 1990
+--> 2 PLAC Transylvania
+
+<-- 2|PLAC|N|Transylvania
+--> 1 _CURRENT Y
+
+<-- 1|_CURRENT|N|Y
+--> 0 @F3@ FAM
+
+<-- 0|FAM|Y|@F3@
+--> 1 HUSB @I7@
+
+<-- 1|HUSB|Y|@I7@
+--> 1 WIFE @I3@
+
+<-- 1|WIFE|Y|@I3@
+--> 1 CHIL @I8@
+
+<-- 1|CHIL|Y|@I8@
+--> 1 MARR
+
+<-- 1|MARR|Y|
+--> 2 DATE 3 JAN 1980
+
+<-- 2|DATE|Y|3 JAN 1980
+--> 2 PLAC Weehawken
+
+<-- 2|PLAC|N|Weehawken
+--> 1 EVEN
+
+<-- 1|EVEN|N|
+--> 2 TYPE Ending
+
+<-- 2|TYPE|N|Ending
+--> 1 _CURRENT N
+
+<-- 1|_CURRENT|N|N
+--> 0 @F4@ FAM
+
+<-- 0|FAM|Y|@F4@
+--> 1 HUSB @I4@
+
+<-- 1|HUSB|Y|@I4@
+--> 1 WIFE @I5@
+
+<-- 1|WIFE|Y|@I5@
+--> 1 CHIL @I6@
+
+<-- 1|CHIL|Y|@I6@
+--> 1 MARR
+
+<-- 1|MARR|Y|
+--> 2 DATE 13 FEB 1999
+
+<-- 2|DATE|Y|13 FEB 1999
+--> 2 PLAC GreenHorn Chapel
+
+<-- 2|PLAC|N|GreenHorn Chapel
+--> 1 EVEN
+
+<-- 1|EVEN|N|
+--> 2 TYPE Ending
+
+<-- 2|TYPE|N|Ending
+--> 2 DATE 20 DEC 1999
+
+<-- 2|DATE|Y|20 DEC 1999
+--> 1 _CURRENT N
+
+<-- 1|_CURRENT|N|N
+--> 0 TRLR
+
+<-- 0|TRLR|Y|

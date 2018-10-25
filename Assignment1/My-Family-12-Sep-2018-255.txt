@@ -1,0 +1,91 @@
+My Family
+
+Plain text downloaded by Matt Swentzel on 12 Sep 2018.
+
+This file should be viewed as Unicode (UTF-8) character encoding.
+
+Created by Family Echo - http://www.familyecho.com/
+
+----------------------------------------------------------------------------
+
+Full name:          Bandit Bringman
+Gender:             Male (deceased)
+Wife:               Trucy Man (married 3 Jan 1980 in Weehawken)
+Birth date:         14 Apr 1995
+Death date:         9 Sep 1987
+
+----------------------------------------------------------------------------
+
+Full name:          Sin Bringman
+Gender:             Male
+Mother:             Trucy Man
+Father:             Bandit Bringman
+Birth date:         20 Sep 1987
+
+----------------------------------------------------------------------------
+
+Full name:          Bedivere Man
+Gender:             Male
+Mother:             Trucy Man
+Father:             Dandy Man
+Birth date:         14 Apr
+
+----------------------------------------------------------------------------
+
+Full name:          Dandy Man
+Gender:             Male
+Wife:               Trucy Man (married 3 Feb 1990 in Transylvania)
+Birth date:         2 Jun 1930
+
+----------------------------------------------------------------------------
+
+Full name:          Trucy Man
+Surname at birth:   Swanson
+Gender:             Female
+Mother:             Mel Swanson
+Father:             Mark Swanson
+Husband:            Dandy Man (married 3 Feb 1990 in Transylvania)
+Late husband:       Bandit Bringman (married 3 Jan 1980 in Weehawken)
+Birth date:         4 May 1967
+
+----------------------------------------------------------------------------
+
+Full name:          Bobson Swanson
+Gender:             Male
+Mother:             Helga Tirone
+Father:             Matt Swanson
+Birth date:         11 Apr 1999
+
+----------------------------------------------------------------------------
+
+Full name:          Mark Swanson
+Gender:             Male
+Wife:               Mel Swanson (married 8 Jan 1940 in New York City)
+Birth date:         3 Jan 1940
+
+----------------------------------------------------------------------------
+
+Full name:          Matt Swanson
+Gender:             Male
+Mother:             Mel Swanson
+Father:             Mark Swanson
+Ex-wife:            Helga Tirone (married 13 Feb 1999 in GreenHorn Chapel, ended 20 Dec 1999)
+Birth date:         3 Feb 1966
+
+----------------------------------------------------------------------------
+
+Full name:          Mel Swanson
+Gender:             Female
+Husband:            Mark Swanson (married 8 Jan 1940 in New York City)
+Birth date:         6 Jan 1939
+
+----------------------------------------------------------------------------
+
+Full name:          Helga Tirone
+Surname at birth:   Trione
+Gender:             Female
+Ex-husband:         Matt Swanson (married 13 Feb 1999 in GreenHorn Chapel, ended 20 Dec 1999)
+Birth date:         Jul
+
+----------------------------------------------------------------------------
+

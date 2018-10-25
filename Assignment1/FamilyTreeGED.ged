@@ -1,0 +1,144 @@
+0 NOTE Matt Swentzel
+0 HEAD
+1 SOUR Family Echo
+2 WWW http://www.familyecho.com/
+1 FILE My Family
+1 DATE 12 SEP 2018
+1 DEST ANSTFILE
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 SUBM @I1@
+2 NAME Matt Swentzel
+1 SUBN
+1 CHAR UTF-8
+0 @I1@ INDI
+1 NAME Mark /Swanson/
+2 GIVN Mark
+2 SURN Swanson
+2 _MARNM Swanson
+1 SEX M
+1 BIRT
+2 DATE 3 JAN 1940
+1 FAMS @F1@
+0 @I2@ INDI
+1 NAME Mel /Swanson/
+2 GIVN Mel
+2 SURN Swanson
+2 _MARNM Swanson
+1 SEX F
+1 BIRT
+2 DATE 6 JAN 1939
+1 FAMS @F1@
+0 @I3@ INDI
+1 NAME Trucy /Swanson/
+2 GIVN Trucy
+2 SURN Swanson
+2 _MARNM Man
+1 SEX F
+1 BIRT
+2 DATE 4 MAY 1967
+1 FAMS @F2@
+1 FAMS @F3@
+1 FAMC @F1@
+0 @I4@ INDI
+1 NAME Matt /Swanson/
+2 GIVN Matt
+2 SURN Swanson
+2 _MARNM Swanson
+1 SEX M
+1 BIRT
+2 DATE 3 FEB 1966
+1 FAMS @F4@
+1 FAMC @F1@
+0 @I5@ INDI
+1 NAME Helga /Trione/
+2 GIVN Helga
+2 SURN Trione
+2 _MARNM Tirone
+1 SEX F
+1 FAMS @F4@
+0 @I6@ INDI
+1 NAME Bobson /Swanson/
+2 GIVN Bobson
+2 SURN Swanson
+2 _MARNM Swanson
+1 SEX M
+1 BIRT
+2 DATE 11 APR 1999
+1 FAMC @F4@
+0 @I7@ INDI
+1 NAME Bandit /Bringman/
+2 GIVN Bandit
+2 SURN Bringman
+2 _MARNM Bringman
+1 SEX M
+1 BIRT
+2 DATE 14 APR 1995
+1 DEAT Y
+2 DATE 9 SEP 1987
+1 FAMS @F3@
+0 @I8@ INDI
+1 NAME Sin /Bringman/
+2 GIVN Sin
+2 SURN Bringman
+2 _MARNM Bringman
+1 SEX M
+1 BIRT
+2 DATE 20 SEP 1987
+1 FAMC @F3@
+0 @I9@ INDI
+1 NAME Dandy /Man/
+2 GIVN Dandy
+2 SURN Man
+2 _MARNM Man
+1 SEX M
+1 BIRT
+2 DATE 2 JUN 1930
+1 FAMS @F2@
+0 @I10@ INDI
+1 NAME Bedivere /Man/
+2 GIVN Bedivere
+2 SURN Man
+2 _MARNM Man
+1 SEX M
+1 FAMC @F2@
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+1 CHIL @I4@
+1 MARR
+2 DATE 8 JAN 1940
+2 PLAC New York City
+1 _CURRENT Y
+0 @F2@ FAM
+1 HUSB @I9@
+1 WIFE @I3@
+1 CHIL @I10@
+1 MARR
+2 DATE 3 FEB 1990
+2 PLAC Transylvania
+1 _CURRENT Y
+0 @F3@ FAM
+1 HUSB @I7@
+1 WIFE @I3@
+1 CHIL @I8@
+1 MARR
+2 DATE 3 JAN 1980
+2 PLAC Weehawken
+1 EVEN
+2 TYPE Ending
+1 _CURRENT N
+0 @F4@ FAM
+1 HUSB @I4@
+1 WIFE @I5@
+1 CHIL @I6@
+1 MARR
+2 DATE 13 FEB 1999
+2 PLAC GreenHorn Chapel
+1 EVEN
+2 TYPE Ending
+2 DATE 20 DEC 1999
+1 _CURRENT N
+0 TRLR
